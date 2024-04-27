@@ -1,1 +1,1 @@
-gemini_sample_game
+gemini_simple_game
