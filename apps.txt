@@ -1,1 +1,2 @@
 gemini_simple_game
+gemini_txt_analyser

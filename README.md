@@ -4,9 +4,10 @@ An app which can be used to easily download any apps with Google Gemini AI integ
 
 # Downloadable Apps
 
-| Name               | Author                                              | Latest Version |
-|--------------------|-----------------------------------------------------|----------------|
-| Gemini Simple Game | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              |
+| Name                | Author                                              | Latest Version |
+|---------------------|-----------------------------------------------------|----------------|
+| Gemini Simple Game  | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              |
+| Gemini TXT Analyser | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              |
 
 # How to Add Your Downloadable App?
 
