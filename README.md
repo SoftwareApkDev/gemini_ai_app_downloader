@@ -8,6 +8,7 @@ An app which can be used to easily download any apps with Google Gemini AI integ
 |----------------------------------------------------------------------|-----------------------------------------------------|----------------|
 | [Gemini Simple Game](https://pypi.org/project/gemini-simple-game/)   | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              |
 | [Gemini TXT Analyser](https://pypi.org/project/gemini-txt-analyser/) | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              |
+| [Gemini PDF Analyser](https://pypi.org/project/gemini-pdf-analyser/) | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              |
 
 # How to Add Your Downloadable App?
 
