@@ -1,3 +1,4 @@
 gemini_simple_game
 gemini_txt_analyser
 gemini_pdf_analyser
+gemini_code_generator
