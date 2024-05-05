@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name='gemini_ai_app_downloader',
-    version='1.6',
+    version='1.7',
     packages=['gemini_ai_app_downloader'],
     url='https://github.com/SoftwareApkDev/gemini_ai_app_downloader',
     license='MIT',

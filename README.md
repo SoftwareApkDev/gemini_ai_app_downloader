@@ -11,6 +11,7 @@ An app which can be used to easily download any apps with Google Gemini AI integ
 | [Gemini PDF Analyser](https://pypi.org/project/gemini-pdf-analyser/)           | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              |
 | [Gemini Code Generator](https://pypi.org/project/gemini-code-generator/)       | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              |
 | [Gemini Match Word Puzzle](https://pypi.org/project/gemini-match-word-puzzle/) | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              | 
+| [Gemini Random Generator](https://pypi.org/project/gemini-random-generator/)   | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              | 
 
 # How to Add Your Downloadable App?
 
