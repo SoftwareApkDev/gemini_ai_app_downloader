@@ -4,3 +4,5 @@ gemini_pdf_analyser
 gemini_code_generator
 gemini_match_word_puzzle
 gemini_random_generator
+gemini_cli_planet_adventure
+gemini_cli_creature_hunter
